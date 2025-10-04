@@ -1,9 +1,11 @@
 # 🧩 Bash Automation Scripts
 
 This repository contains Bash scripts designed to automate data ETL, file management tasks.
-Each script demonstrates practical shell scripting techniques for automation, data organization, and reproducible workflows.
+Each script demonstrates shell scripting techniques for automation, data organization, and reproducible workflows.
 
 ## 📜 Overview
+
+![alt text](assets/etl_db.gif)
 
 ```bash
 .
