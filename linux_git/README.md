@@ -5,7 +5,7 @@ Each script demonstrates shell scripting techniques for automation, data organiz
 
 ## 📜 Overview
 
-![alt text](assets/etl_db.gif)
+![alt text](assets/etl_db1.gif)
 
 ```bash
 .
