@@ -22,7 +22,7 @@ Each script demonstrates shell scripting techniques for automation, data organiz
 ```
 ---
 
-## 1️⃣ dir_pipeline.sh – Simple ETL Workflow
+## 1️⃣ dir_pipeline.sh – ETL Workflow
 
 A lightweight ETL (Extract, Transform, Load) process implemented entirely in Bash.
 
